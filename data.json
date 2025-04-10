@@ -1,0 +1,132 @@
+{
+    "0": {
+      "Contient": "North America",
+      "Country_State": "US",
+      "cuisine": "Southern Recipes",
+      "title": "Sweet Potato Pie",
+      "URL": "https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/",
+      "rating": 4.8,
+      "total_time": 115,
+      "prep_time": 15,
+      "cook_time": 100,
+      "description": "Shared from a Southern recipe, this homemade sweet potato pie is easy to make with boiled sweet potato. Try it, it may just be the best you've ever tasted!",
+      "ingredients": [
+        "1 (1 pound) sweet potato, with skin",
+        "0.5 cup butter, softened",
+        "1 cup white sugar",
+        "0.5 cup milk",
+        "2 large eggs",
+        "0.5 teaspoon ground nutmeg",
+        "0.5 teaspoon ground cinnamon",
+        "1 teaspoon vanilla extract",
+        "1 (9 inch) unbaked pie crust"
+      ],
+      "instructions": [
+        "Place whole sweet potato in pot and cover with water; bring to a boil. Boil until tender when pierced with a fork, 40 to 50 minutes.",
+        "Preheat the oven to 350 degrees F (175 degrees C).",
+        "Remove sweet potato from the pot and run under cold water. Remove and discard skin.",
+        "Break sweet potato flesh apart and place in a bowl. Add butter and mix with an electric mixer until well combined. Add sugar, milk, eggs, nutmeg, cinnamon, and vanilla; beat on medium speed until mixture is smooth. Pour filling into unbaked pie crust.",
+        "Bake in the preheated oven until a knife inserted in the center comes out clean, 55 to 60 minutes.",
+        "Remove from the oven and let cool before serving."
+      ],
+      "nutrients": {
+        "calories": "389 kcal",
+        "carbohydrateContent": "48 g",
+        "cholesterolContent": "78 mg",
+        "fiberContent": "3 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "10 g",
+        "sodiumContent": "254 mg",
+        "sugarContent": "28 g",
+        "fatContent": "21 g",
+        "unsaturatedFatContent": "0 g"
+      },
+      "serves": "8 servings"
+    },
+    "1": {
+      "Contient": "North America",
+      "Country_State": "US",
+      "cuisine": "Southern Recipes",
+      "title": "Classic Buttermilk Biscuits",
+      "URL": "https://www.allrecipes.com/recipe/220943/chef-johns-buttermilk-biscuits/",
+      "rating": 4.9,
+      "total_time": 30,
+      "prep_time": 15,
+      "cook_time": 15,
+      "description": "These Southern-style buttermilk biscuits are fluffy and buttery with a golden crust — perfect with gravy or jam.",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "0.25 teaspoon baking soda",
+        "1 teaspoon salt",
+        "6 tablespoons unsalted butter, cold and cubed",
+        "1 cup buttermilk"
+      ],
+      "instructions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "In a large bowl, whisk together flour, baking powder, baking soda, and salt.",
+        "Cut in butter using a pastry cutter or fork until mixture resembles coarse crumbs.",
+        "Stir in buttermilk just until dough comes together. Do not overmix.",
+        "Turn dough out onto a floured surface, pat to 1-inch thickness, and cut into rounds.",
+        "Place on a baking sheet and bake until golden brown, 12 to 15 minutes."
+      ],
+      "nutrients": {
+        "calories": "210 kcal",
+        "carbohydrateContent": "24 g",
+        "cholesterolContent": "20 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "400 mg",
+        "sugarContent": "2 g",
+        "fatContent": "11 g",
+        "unsaturatedFatContent": "0 g"
+      },
+      "serves": "6 servings"
+    },
+    "2": {
+      "Contient": "North America",
+      "Country_State": "US",
+      "cuisine": "Southern Recipes",
+      "title": "Fried Green Tomatoes",
+      "URL": "https://www.allrecipes.com/recipe/16760/best-fried-green-tomatoes/",
+      "rating": 4.7,
+      "total_time": 45,
+      "prep_time": 15,
+      "cook_time": 30,
+      "description": "A Southern classic, these fried green tomatoes are crispy on the outside and tender inside. A great side or appetizer.",
+      "ingredients": [
+        "4 large green tomatoes",
+        "2 eggs",
+        "0.5 cup milk",
+        "1 cup all-purpose flour",
+        "0.5 cup cornmeal",
+        "0.5 cup bread crumbs",
+        "2 teaspoons salt",
+        "0.25 teaspoon black pepper",
+        "1 quart vegetable oil for frying"
+      ],
+      "instructions": [
+        "Slice tomatoes 1/2 inch thick. Discard the ends.",
+        "Whisk eggs and milk together in a medium-size bowl.",
+        "Scoop flour onto a plate. Mix cornmeal, bread crumbs, salt, and pepper on another plate.",
+        "Dip tomatoes into flour, then egg mixture, then dredge in the breadcrumb mixture.",
+        "In a large skillet, heat oil to 375 degrees F (190 degrees C).",
+        "Fry tomatoes in batches until golden brown, about 3–4 minutes per side. Drain on paper towels."
+      ],
+      "nutrients": {
+        "calories": "320 kcal",
+        "carbohydrateContent": "35 g",
+        "cholesterolContent": "50 mg",
+        "fiberContent": "2 g",
+        "proteinContent": "5 g",
+        "saturatedFatContent": "4 g",
+        "sodiumContent": "450 mg",
+        "sugarContent": "5 g",
+        "fatContent": "18 g",
+        "unsaturatedFatContent": "0 g"
+      },
+      "serves": "6 servings"
+    }
+  }
+  
