@@ -99,23 +99,48 @@ GET /api/recipes/search?title=Biscuits&cuisine=Southern&total_time=<=30
 
 ```json
 {
-  "page": 1,
-  "limit": 10,
-  "total": 3,
   "data": [
     {
-      "_id": "...",
-      "title": "Classic Buttermilk Biscuits",
-      "cuisine": "Southern Recipes",
-      "rating": 4.9,
-      "total_time": 30,
-      "ingredients": [...],
-      "instructions": [...],
       "nutrients": {
         "calories": "210 kcal",
+        "carbohydrateContent": "24 g",
+        "cholesterolContent": "20 mg",
+        "fiberContent": "1 g",
+        "proteinContent": "4 g",
+        "saturatedFatContent": "6 g",
+        "sodiumContent": "400 mg",
+        "sugarContent": "2 g",
         "fatContent": "11 g",
-        ...
-      }
+        "unsaturatedFatContent": "0 g"
+      },
+      "_id": "67f77a518c3d4ebd47f0616b",
+      "Country_State": "US",
+      "cuisine": "Southern Recipes",
+      "title": "Classic Buttermilk Biscuits",
+      "URL": "https://www.allrecipes.com/recipe/220943/chef-johns-buttermilk-biscuits/",
+      "rating": 4.9,
+      "total_time": 30,
+      "prep_time": 15,
+      "cook_time": 15,
+      "description": "These Southern-style buttermilk biscuits are fluffy and buttery with a golden crust — perfect with gravy or jam.",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 tablespoon baking powder",
+        "0.25 teaspoon baking soda",
+        "1 teaspoon salt",
+        "6 tablespoons unsalted butter, cold and cubed",
+        "1 cup buttermilk"
+      ],
+      "instructions": [
+        "Preheat oven to 425 degrees F (220 degrees C).",
+        "In a large bowl, whisk together flour, baking powder, baking soda, and salt.",
+        "Cut in butter using a pastry cutter or fork until mixture resembles coarse crumbs.",
+        "Stir in buttermilk just until dough comes together. Do not overmix.",
+        "Turn dough out onto a floured surface, pat to 1-inch thickness, and cut into rounds.",
+        "Place on a baking sheet and bake until golden brown, 12 to 15 minutes."
+      ],
+      "serves": "6 servings",
+      "__v": 0
     }
   ]
 }
