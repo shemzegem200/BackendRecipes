@@ -25,8 +25,8 @@ A simple RESTful API built with Node.js, Express, and MongoDB to serve and searc
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/recipe-api.git
-cd recipe-api
+git clone https://github.com/shemzegem200/BackendRecipes.git
+cd BackendRecipes
 npm install
 ```
 
