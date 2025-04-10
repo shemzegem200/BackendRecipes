@@ -1,7 +1,3 @@
-Here’s a clean and complete `README.md` file documenting your Recipe API project:
-
----
-
 # 🍽️ Recipe API
 
 A simple RESTful API built with Node.js, Express, and MongoDB to serve and search for recipes. This API supports pagination, sorting, and advanced filtering based on cuisine, title, total time, rating, and calories.
